@@ -1,0 +1,30 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1573873989636'); /* IE9 */
+  src: url('iconfont.eot?t=1573873989636#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOIAAsAAAAAB9AAAAM8AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDFAqDDIJXATYCJAMQCwoABCAFhG0HTRvGBsi+QCa3OkAoVYwqll1GTGDlnLqP74HgSuPh+7Fv5753v2pawzRtQzSRTJJVT0u0JBYi02lMp2RC8cwQ91KXbYAUJoWYH8gg+RyDPDqFqgeiFoiK5q9/4JaLLgkgw56ARQvlpd4AAWbme529nl9mcICmOTx/9oX++/RX092txM9na7ld10n9KFpqFjAOKNDjOiiyoqxAA9GGsZsIGuJuAl1rinmd7x2ehkAJDArEA12TIDCTktKotoVmxcwUn8BPu7z2foeP/PXxVxFI0ajAyIvrUaH9v1ytgg2UAvV0ARjzqDgMJHGnMnSbT1Q6zEfX28zXUaAphfJjb8+USu5im+rt//GKSjQBsg825XLlB5gl+CFL4ceECh+jfxtDbAFvFNFKY2rKfn89wVvjDMn7By+f33buErpyY/vN5Kct9h57rA1dH5I5OPg6Yc25ZyjkzYukdV6zZ87EIa/eUwiJG4BiZBjX+X5bl18n+p57lR1y5U2S38W3eVKI7+D6uPSBT66H4sLWsMPve38kbMuXki9nIDV6+k4dxH1c++VES8HPb60ZUU7uTU44EZ/c25wNya8K/hxrbK+NrW4vaofV2q+132g/CHn/i37w9lVoFlV93qastfXUttnnb7f2C7/GPywMiXqWvUQftwtzgL3qXe/vUK977wKgKn//1Xf85zm9edT8r12C771ZdaRutbQVOqv/jLpjU/pa4M50dVgVpNMxr39YQVcX21Js6usUlkVnktC2SFC0rKJq202n6DAaejbR1HYKXYf0ze+Z4XxEdnDQbglh7C6KoW+oxjx0ir6gYekPmsbhg67rRa/Yszd01MWJJIiK5RWsK8ymyCuQqJ8k2oIp8bSWi2cJd+tZXFFanq/2EZvwKca4F7VKISimnFm4V9qPmCbDDmfzRBGlLiGcxrIyWvWgUoVZgJzDERKBUGGyFZhOwdgobS2gwvMnEZoFJglv4PQUZxGcm945VqFUeQe6z2R34tzKPW6LNJUEgcIojrFgvVI3wmRiMKe62zxCIZRyDSg4GpVBPtrVVLq8xXrDbdAF1swoUSOjoXNf4qKELphmoHLpm2iMr4RYTNZNUuK4mE0AAA==') format('woff2'),
+  url('iconfont.woff?t=1573873989636') format('woff'),
+  url('iconfont.ttf?t=1573873989636') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1573873989636#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cart-full:before {
+  content: "\e6eb";
+}
+
+.icon-category:before {
+  content: "\e6ec";
+}
+
+.icon-mobile-phone:before {
+  content: "\e6fc";
+}
+
